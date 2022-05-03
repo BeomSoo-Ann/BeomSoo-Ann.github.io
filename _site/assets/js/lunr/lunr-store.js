@@ -4,4 +4,10 @@ var store = [{
         "tags": ["Blog"],
         "url": "/blog/first-post/",
         "teaser": null
+      },{
+        "title": "태양 자전주기 구하기",
+        "excerpt":" ","categories": ["Astronomy"],
+        "tags": ["Blog"],
+        "url": "/astronomy/astronomy-day1/",
+        "teaser": null
       }]
