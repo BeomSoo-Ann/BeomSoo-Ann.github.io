@@ -4,8 +4,7 @@ excerpt: "지금까지 해온 공부, 지금부터 시작할 공부를 기록하
 
 categories:
   - Blog
-tags:
-  - Blog
+
 last_modified_at: 2020-04-27T14:00:00+09:00
 ---
 
