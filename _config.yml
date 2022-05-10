@@ -16,7 +16,7 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale: "ko"
-title: "Code my Universe"
+title: "Code My Cosmos"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "안범수"
@@ -25,8 +25,8 @@ url: "https://BeomSoo-Ann.github.io" # the base hostname & protocol for your sit
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "BeomSoo-Ann/BeomSoo-Ann.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: " " # overrides the website title displayed in the masthead, use " " for no title
+logo: "/assets/images/20181122_183215_colored.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title: "Code My Cosmos" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name: "안 범 수"
+  name: "BeomRam"
   avatar: "/assets/images/20200206_140539.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "개발하는 천문학자 / 천문학하는 개발자"
+  bio: "**개발하는 천문학자** / **천문학하는 개발자**"
   location: "Seoul, South Korea"
   email:
   links:
