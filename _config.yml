@@ -15,12 +15,12 @@
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "en-US"
+locale: "ko"
 title: "Code my Universe"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "안범수"
-description: "코딩 공부하다 천문학에 빠져버린 이상한 초보 개발자"
+description: "코딩 공부하다 천문학에 빠져버린 초보 개발자"
 url: "https://BeomSoo-Ann.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "BeomSoo-Ann/BeomSoo-Ann.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name: "안범수"
+  name: "안 범 수"
   avatar: "/assets/images/20200206_140539.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "경희대학교 **우주과학과**"
+  bio: "개발하는 천문학자 / 천문학하는 개발자"
   location: "Seoul, South Korea"
   email:
   links:
