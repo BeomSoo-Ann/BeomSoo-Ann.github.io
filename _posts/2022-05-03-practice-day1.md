@@ -9,6 +9,7 @@ last_modified_at: 2022-05-10
 
 toc: true
 toc_sticky: true
+toc_label: "Contents"
 ---
 
 > 천문학개론2 강의에서 진행했던 실습을 개발자의 눈으로 복습해보자!  
