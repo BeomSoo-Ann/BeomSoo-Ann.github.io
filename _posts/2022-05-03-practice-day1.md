@@ -17,7 +17,7 @@ toc_label: "Contents"
 
 ## 1. 개요
 
-**Helioviewer**에서 **PROBA-2 위성**의 태양 관측 데이터를 파이썬 코드를 통해 처리한다.
+[**Helioviewer**](https://www.helioviewer.org)에서 **PROBA-2 위성**의 태양 관측 데이터를 받아 파이썬 코드를 통해 처리한다.
 처리한 데이터로 태양 표면 활동지역의 이동 속도를 구하고, 이를 이용하여 태양의 자전 주기를 구한다.
 
 ## 2. Modules
