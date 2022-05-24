@@ -103,7 +103,7 @@ author:
   name: "BeomRam"
   avatar: "/assets/images/20200206_140539.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "**개발하는 천문학자** / **천문학하는 개발자**"
-  location: "Seoul, South Korea"
+  location: "Seoul, Korea"
   email:
   links:
     - label: "Email"
