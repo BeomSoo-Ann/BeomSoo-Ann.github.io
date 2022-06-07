@@ -1,0 +1,23 @@
+I"�<blockquote>
+  <p>경찰서에서 근무하는 사회복무요원의 업무 중 특정 키워드가 담긴 인터넷 글을 삭제하는 업무가 있다.
+그런데 하나하나 글을 찾아보기에는 눈도 아프고 너무 귀찮다.
+이 귀찮은 일을 웹 크롤링을 통해 자동화해보자.</p>
+</blockquote>
+
+<h2 id="1-개요">1. 개요</h2>
+
+<p>특정 웹 사이트에서 특정 키워드가 포함된 인터넷 글을 찾으면 그 글의 주소를 csv 파일로 저장하는 프로그램을 만들어보자.</p>
+
+<h2 id="2-modules">2. Modules</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">bs4</span> <span class="kn">import</span> <span class="n">BeautifulSoup</span>
+<span class="kn">from</span> <span class="nn">selenium</span> <span class="kn">import</span> <span class="n">webdriver</span>
+</code></pre></div></div>
+
+<p>이번 프로젝트에서 가장 중요한 두 가지 모듈이다.</p>
+
+<ul>
+  <li><strong>datetime</strong>: 날짜, 시간 자료를 처리해주는 모듈</li>
+  <li><strong>numpy</strong>: 배열을 생성하고, 배열의 연산을 수행하는 모듈</li>
+</ul>
+:ET

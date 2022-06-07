@@ -9,8 +9,8 @@
   <head>
     <meta charset="utf-8">
 
-<!-- begin _includes/seo.html --><title>Crawling | Code My Cosmos</title>
-<meta name="description" content="">
+<!-- begin _includes/seo.html --><title>업무 자동화하기! - Web Crawling | Code My Cosmos</title>
+<meta name="description" content="Web Crawling을 통하여 사회복무요원 업무를 자동화해보자">
 
 
   <meta name="author" content="BeomRam">
@@ -22,21 +22,23 @@
 <meta property="og:type" content="article">
 <meta property="og:locale" content="ko">
 <meta property="og:site_name" content="Code My Cosmos">
-<meta property="og:title" content="Crawling">
-<meta property="og:url" content="http://localhost:4000/crawling/">
+<meta property="og:title" content="업무 자동화하기! - Web Crawling">
+<meta property="og:url" content="http://localhost:4000/project/crawling/">
 
 
-  <meta property="og:description" content="">
-
-
-
+  <meta property="og:description" content="Web Crawling을 통하여 사회복무요원 업무를 자동화해보자">
 
 
 
 
-  <meta property="article:published_time" content="2022-05-20T00:00:00+09:00">
 
 
+
+  <meta property="article:published_time" content="2022-06-07T00:00:00+09:00">
+
+
+
+  <meta property="article:modified_time" content="2022-06-07T00:00:00+09:00">
 
 
 
@@ -45,7 +47,7 @@
   
 
 
-<link rel="canonical" href="http://localhost:4000/crawling/">
+<link rel="canonical" href="http://localhost:4000/project/crawling/">
 
 
 
@@ -275,27 +277,58 @@
 
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Crawling">
-    <meta itemprop="description" content="">
-    <meta itemprop="datePublished" content="2022-05-20T00:00:00+09:00">
-    
+    <meta itemprop="headline" content="업무 자동화하기! - Web Crawling">
+    <meta itemprop="description" content="Web Crawling을 통하여 사회복무요원 업무를 자동화해보자">
+    <meta itemprop="datePublished" content="2022-06-07T00:00:00+09:00">
+    <meta itemprop="dateModified" content="2022-06-07T00:00:00+09:00">
 
     <div class="page__inner-wrap">
       
         <header>
           <h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="http://localhost:4000/crawling/" class="u-url" itemprop="url">Crawling
+            <a href="http://localhost:4000/project/crawling/" class="u-url" itemprop="url">업무 자동화하기! - Web Crawling
 </a>
           </h1>
           
-            <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> 업데이트: <time datetime="2022-05-20T00:00:00+09:00">May 20, 2022</time></p>
+            <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> 업데이트: <time datetime="2022-06-07T00:00:00+09:00">June 07, 2022</time></p>
           
         </header>
       
 
       <section class="page__content e-content" itemprop="text">
         
+          <aside class="sidebar__right sticky">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Contents</h4></header>
+              <ul class="toc__menu"><li><a href="#1-개요">1. 개요</a></li><li><a href="#2-modules">2. Modules</a></li></ul>
+
+            </nav>
+          </aside>
         
+        <blockquote>
+  <p>경찰서에서 근무하는 사회복무요원의 업무 중 특정 키워드가 담긴 인터넷 글을 삭제하는 업무가 있다.
+그런데 하나하나 글을 찾아보기에는 눈도 아프고 너무 귀찮다.
+이 귀찮은 일을 웹 크롤링을 통해 자동화해보자.</p>
+</blockquote>
+
+<h2 id="1-개요">1. 개요</h2>
+
+<p>특정 웹 사이트에서 특정 키워드가 포함된 인터넷 글을 찾으면 그 글의 주소를 csv 파일로 저장하는 프로그램을 만들어보자.</p>
+
+<h2 id="2-modules">2. Modules</h2>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">requests</span>
+<span class="kn">from</span> <span class="nn">selenium</span> <span class="kn">import</span> <span class="n">webdriver</span>
+<span class="kn">from</span> <span class="nn">bs4</span> <span class="kn">import</span> <span class="n">BeautifulSoup</span>
+</code></pre></div></div>
+
+<p>이번 프로젝트에서 가장 중요한 모듈들이다.</p>
+
+<ul>
+  <li><strong>requests</strong>: 웹 사이트의 html을 불러온다.</li>
+  <li><strong>selenium</strong>: 파이썬으로 브라우저를 컨트롤할 수 있게 해준다.</li>
+  <li><strong>BeautifulSoup</strong>: html에서 정보를 추출할 때 사용한다.</li>
+</ul>
 
         
       </section>
@@ -303,6 +336,21 @@
       <footer class="page__meta">
         
         
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> 카테고리: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#project" class="page__taxonomy-item p-category" rel="tag">Project</a>
+    
+    </span>
+  </p>
 
 
       </footer>
