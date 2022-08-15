@@ -3,7 +3,7 @@ title: "안범수"
 permalink: /about/
 layout: single
 header:
-  image: /assets/images/about_header.jpg
+  image: /assets/images/about_header.png
 ---
 
 ## Education
