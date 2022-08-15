@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-05T14:29:33+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Code My Cosmos</title><subtitle>코딩 공부하다 천문학에 빠져버린 초보 개발자</subtitle><author><name>BeomRam</name></author><entry><title type="html">Research Proposal - 딥러닝을 사용한 천문 데이터 처리</title><link href="http://localhost:4000/project/Research-Proposal/" rel="alternate" type="text/html" title="Research Proposal - 딥러닝을 사용한 천문 데이터 처리" /><published>2022-07-28T00:00:00+09:00</published><updated>2022-07-28T00:00:00+09:00</updated><id>http://localhost:4000/project/Research-Proposal</id><content type="html" xml:base="http://localhost:4000/project/Research-Proposal/"><![CDATA[<blockquote>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-15T19:13:02+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Code My Cosmos</title><subtitle>코딩 공부하다 천문학에 빠져버린 초보 개발자</subtitle><author><name>BeomRam</name></author><entry><title type="html">Research Proposal - 딥러닝을 사용한 천문 데이터 처리</title><link href="http://localhost:4000/project/Research-Proposal/" rel="alternate" type="text/html" title="Research Proposal - 딥러닝을 사용한 천문 데이터 처리" /><published>2022-07-28T00:00:00+09:00</published><updated>2022-07-28T00:00:00+09:00</updated><id>http://localhost:4000/project/Research-Proposal</id><content type="html" xml:base="http://localhost:4000/project/Research-Proposal/"><![CDATA[<blockquote>
   <p>7월 12일, James Webb Space Telescope(JWST)가 첫 관측 데이터를 지구로 보냈다.
 지금까지 천문우주과학에 큰 기여를 했던 Hubble Space Telescope (HST)와 JWST의 데이터를 사용하여 과거의 데이터를 보정해주는 딥러닝 알고리즘을 개발해보자.</p>
 </blockquote>
 
-<h2 id="1">1.</h2>]]></content><author><name>BeomRam</name></author><category term="Project" /><summary type="html"><![CDATA[HST와 JWST 데이터를 Training Data로 활용하여 딥러닝을 학습시켜보자]]></summary></entry><entry><title type="html">업무 자동화하기! - Web Crawling</title><link href="http://localhost:4000/project/crawling/" rel="alternate" type="text/html" title="업무 자동화하기! - Web Crawling" /><published>2022-06-07T00:00:00+09:00</published><updated>2022-06-07T00:00:00+09:00</updated><id>http://localhost:4000/project/crawling</id><content type="html" xml:base="http://localhost:4000/project/crawling/"><![CDATA[<blockquote>
+<h2 id="1-background">1. BACKGROUND</h2>
+
+<h2 id="2-reasearch-questions">2. REASEARCH QUESTIONS</h2>
+
+<h2 id="3-reasearch-methods">3. REASEARCH METHODS</h2>
+
+<h2 id="4-plan-of-work">4. PLAN OF WORK</h2>
+
+<h2 id="5-biblography">5. BIBLOGRAPHY</h2>]]></content><author><name>BeomRam</name></author><category term="Project" /><summary type="html"><![CDATA[HST와 JWST 데이터를 Training Data로 활용하여 딥러닝을 학습시켜보자]]></summary></entry><entry><title type="html">업무 자동화하기! - Web Crawling</title><link href="http://localhost:4000/project/crawling/" rel="alternate" type="text/html" title="업무 자동화하기! - Web Crawling" /><published>2022-06-07T00:00:00+09:00</published><updated>2022-06-07T00:00:00+09:00</updated><id>http://localhost:4000/project/crawling</id><content type="html" xml:base="http://localhost:4000/project/crawling/"><![CDATA[<blockquote>
   <p>경찰서에서 근무하는 사회복무요원의 업무 중 특정 키워드가 담긴 인터넷 글을 삭제하는 업무가 있다.
 그런데 하나하나 글을 찾아보기에는 눈도 아프고 너무 귀찮다.
 이 귀찮은 일을 웹 크롤링을 통해 자동화해보자.</p>
