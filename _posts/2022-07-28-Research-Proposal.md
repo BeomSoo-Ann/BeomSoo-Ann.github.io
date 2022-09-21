@@ -17,6 +17,8 @@ toc_label: "Contents"
 
 ## 1. BACKGROUND
 
+JWST는
+
 ## 2. REASEARCH QUESTIONS
 
 ## 3. REASEARCH METHODS
