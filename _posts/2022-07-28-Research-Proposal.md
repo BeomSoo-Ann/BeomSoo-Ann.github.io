@@ -17,6 +17,20 @@ toc_label: "Contents"
 
 ## 1. BACKGROUND
 
+James Webb Space Telescope(JWST)는 Hubble Space Telescope (HST)의 뒤를 잇는 우주 천체 망원경으로 네 가지 주요 임무를 가지고 현재 활동 중이다.
+JWST의 네 가지 임무는 다음과 같다.
+
+> 1. 빅뱅 이후 형성된 최초의 별과 은하 탐색
+> 2. 은하의 형성과 진화 연구
+> 3. 별과 행성의 형성 연구
+> 4. 외계 생명 탐사
+
+관측을 위한 탑재체는 총 세 가지가 있다.
+
+> 1. NIRCam(Near Infrared Camera) : 근적외선 카메라
+> 2. NIRSpec(Near Infrared Spectrograph) : 근적외선에 대한 분광 관측
+> 3. MIRI(Mid-Infrared Instrument) : 중적외선 카메라와 분광기
+
 ## 2. REASEARCH QUESTIONS
 
 ## 3. REASEARCH METHODS

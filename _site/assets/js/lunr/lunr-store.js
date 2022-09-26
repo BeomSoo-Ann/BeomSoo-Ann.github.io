@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Research Proposal - 딥러닝을 사용한 천문 데이터 처리",
-        "excerpt":"   7월 12일, James Webb Space Telescope(JWST)가 첫 관측 데이터를 지구로 보냈다. 지금까지 천문우주과학에 큰 기여를 했던 Hubble Space Telescope (HST)와 JWST의 데이터를 사용하여 과거의 데이터를 보정해주는 딥러닝 알고리즘을 개발해보자.    1. BACKGROUND   2. REASEARCH QUESTIONS   3. REASEARCH METHODS   4. PLAN OF WORK   5. BIBLOGRAPHY  ","categories": ["Project"],
+        "excerpt":"7월 12일, James Webb Space Telescope(JWST)가 첫 관측 데이터를 지구로 보냈다. 지금까지 천문우주과학에 큰 기여를 했던 Hubble Space Telescope (HST)와 JWST의 데이터를 사용하여 과거의 데이터를 보정해주는 딥러닝 알고리즘을 개발해보자. 1. BACKGROUND James Webb Space Telescope(JWST)는 Hubble Space Telescope (HST)의 뒤를 잇는 우주 천체 망원경으로 네 가지 주요 임무를 가지고 현재...","categories": ["Project"],
         "tags": [],
         "url": "/project/Research-Proposal/",
         "teaser": null

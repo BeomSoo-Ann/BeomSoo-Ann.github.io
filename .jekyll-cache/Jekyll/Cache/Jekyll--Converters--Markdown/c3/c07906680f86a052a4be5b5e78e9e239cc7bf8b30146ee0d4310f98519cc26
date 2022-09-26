@@ -1,0 +1,37 @@
+I"n<blockquote>
+  <p>7월 12일, James Webb Space Telescope(JWST)가 첫 관측 데이터를 지구로 보냈다.
+지금까지 천문우주과학에 큰 기여를 했던 Hubble Space Telescope (HST)와 JWST의 데이터를 사용하여 과거의 데이터를 보정해주는 딥러닝 알고리즘을 개발해보자.</p>
+</blockquote>
+
+<h2 id="1-background">1. BACKGROUND</h2>
+
+<p>James Webb Space Telescope(JWST)는 Hubble Space Telescope (HST)의 뒤를 잇는 우주 천체 망원경으로 네 가지 주요 임무를 가지고 현재 활동 중이다.
+JWST의 네 가지 임무는 다음과 같다.</p>
+
+<blockquote>
+  <ol>
+    <li>빅뱅 이후 형성된 최초의 별과 은하 탐색</li>
+    <li>은하의 형성과 진화 연구</li>
+    <li>별과 행성의 형성 연구</li>
+    <li>외계 생명 탐사</li>
+  </ol>
+</blockquote>
+
+<p>관측을 위한 탑재체는 총 세 가지가 있다.</p>
+
+<blockquote>
+  <ol>
+    <li>NIRCam(Near Infrared Camera) : 근적외선 카메라</li>
+    <li>NIRSpec(Near Infrared Spectrograph) : 근적외선에 대한 분광 관측</li>
+    <li>MIRI(Mid-Infrared Instrument) : 중적외선 카메라와 분광기</li>
+  </ol>
+</blockquote>
+
+<h2 id="2-reasearch-questions">2. REASEARCH QUESTIONS</h2>
+
+<h2 id="3-reasearch-methods">3. REASEARCH METHODS</h2>
+
+<h2 id="4-plan-of-work">4. PLAN OF WORK</h2>
+
+<h2 id="5-biblography">5. BIBLOGRAPHY</h2>
+:ET
