@@ -23,12 +23,6 @@ var store = [{
         "url": "/astronomy/practice-day2/",
         "teaser": null
       },{
-        "title": "업무 자동화하기! - Web Crawling",
-        "excerpt":"경찰서에서 근무하는 사회복무요원의 업무 중 특정 키워드가 담긴 인터넷 글을 삭제하는 업무가 있다. 그런데 하나하나 글을 찾아보기에는 눈도 아프고 너무 귀찮다. 이 귀찮은 일을 웹 크롤링을 통해 자동화해보자. 1. 개요 특정 웹 사이트에서 특정 키워드가 포함된 인터넷 글을 찾으면 그 글의 주소를 csv 파일로 저장하는 프로그램을 만들어보자. 2. Modules import...","categories": ["Project"],
-        "tags": [],
-        "url": "/project/crawling/",
-        "teaser": null
-      },{
         "title": "Research Proposal - 딥러닝을 사용한 천문 데이터 처리",
         "excerpt":"   7월 12일, James Webb Space Telescope(JWST)가 첫 관측 데이터를 지구로 보냈다. 지금까지 천문우주과학에 큰 기여를 했던 Hubble Space Telescope (HST)와 JWST의 데이터를 사용하여 과거의 데이터를 보정해주는 딥러닝 알고리즘을 개발해보자.    1. BACKGROUND   2. REASEARCH QUESTIONS   3. REASEARCH METHODS   4. PLAN OF WORK   5. BIBLOGRAPHY  ","categories": ["Project"],
         "tags": [],
