@@ -28,4 +28,10 @@ var store = [{
         "tags": [],
         "url": "/project/Research-Proposal/",
         "teaser": null
+      },{
+        "title": "아프다...",
+        "excerpt":"두 달 넘게 블로그 업데이트를 거의 하지 않고 있었다… 건강이 많이 안좋아졌다. 거의 두 달 동안 하루에 2시간 이상 잠을 잔 적이 없다… 완치된 줄 알았던 아토피가 최근에 재발했다. 간지러움에 밤에 한숨도 잘 수 없었다. 22년 그럴싸한 계획을 많이 세웠고 6월, 7월까지는 지키는 듯 싶었으나 몸이 안좋아지니 할 수도, 하고싶지도...","categories": ["Blog"],
+        "tags": [],
+        "url": "/blog/Restart/",
+        "teaser": null
       }]
