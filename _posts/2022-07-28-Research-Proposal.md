@@ -31,6 +31,8 @@ JWST의 네 가지 임무는 다음과 같다.
 > 2. NIRSpec(Near Infrared Spectrograph) : 근적외선에 대한 분광 관측
 > 3. MIRI(Mid-Infrared Instrument) : 중적외선 카메라와 분광기
 
+JWST의 데이터는 [**STScI**](https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html)에서 확인할 수 있다.
+
 ## 2. REASEARCH QUESTIONS
 
 ## 3. REASEARCH METHODS
