@@ -123,7 +123,7 @@ author:
       url: "https://github.com/BeomSoo-Ann"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/codinglife_2022/"
+      url: "https://instagram.com/aastrocoder/"
 
 # Site Footer
 footer:
@@ -145,7 +145,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/codinglife_2022/"
+      url: "https://instagram.com/aastrocoder/"
 
 # Reading Files
 include:
