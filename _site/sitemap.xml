@@ -4,22 +4,6 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://localhost:4000/blog/Restart/</loc>
-        
-        <lastmod>2022-09-26T00:00:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
         <loc>http://localhost:4000/project/Research-Proposal/</loc>
         
         <lastmod>2022-07-28T00:00:00+09:00</lastmod>
@@ -52,41 +36,9 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/travel/London/</loc>
-        
-        <lastmod>2022-05-11T00:00:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
         <loc>http://localhost:4000/astronomy/practice-day1/</loc>
         
         <lastmod>2022-05-03T00:00:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/blog/first-post/</loc>
-        
-        <lastmod>2022-04-27T00:00:00+09:00</lastmod>
         
 
         
