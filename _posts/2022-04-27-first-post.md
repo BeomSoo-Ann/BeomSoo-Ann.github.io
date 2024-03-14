@@ -6,6 +6,8 @@ categories:
   - Blog
 
 last_modified_at: 2022-04-27
+
+published: false
 ---
 
 우주과학과에 들어와서 별로 흥미를 느끼지 못하고 열심히 놀기만 했다.
