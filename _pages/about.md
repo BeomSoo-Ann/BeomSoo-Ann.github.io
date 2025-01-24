@@ -11,8 +11,8 @@ header:
 **경희대학교**
 
 - [우주과학과](https://space.khu.ac.kr)
-- [소프트웨어융합학과](http://swcon.khu.ac.kr) (예정)
-
+- [우주탐사학과](https://kmc.khu.ac.kr/gskh_kor/user/contents/view.do?menuNo=13100433)
+  - Space Science Instrument Laboratory (SSIL)
 ## Work Experience
 
 ## Contact
